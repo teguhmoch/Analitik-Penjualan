@@ -1,0 +1,11 @@
+{
+    "data": [
+        { "id" : 1,"product": "IPhone 15 Pro Max" ,"date": "2024-01-01", "sales": 2000, "revenue": 50000 },
+        { "id" : 2,"product": "Samsung S24" ,"date": "2024-01-02", "sales": 3000, "revenue": 60000 },
+        { "id" : 3,"product": "Redmi Note 13" ,"date": "2024-01-03", "sales": 2000, "revenue": 20000 },
+        { "id" : 4,"product": "Samsung S23" ,"date": "2024-01-04", "sales": 1000, "revenue": 20000 },
+        { "id" : 5,"product": "Infinix Note 5" ,"date": "2024-01-05", "sales": 200, "revenue": 2000 },
+        { "id" : 6,"product": "Iphone XS" ,"date": "2024-01-06", "sales": 3000, "revenue": 4000 },
+        { "id" : 7,"product": "OnePlus 4" ,"date": "2024-01-03", "sales": 2000, "revenue": 22000 }
+    ]
+  }
